@@ -10,7 +10,7 @@ Leetcode practice in Java
 
 
 [Two Sum]: https://leetcode.com/problems/two-sum/
-[Two SumSolution]: https://github.com/robinali34/leetcode_java/src/main/easy/twoSum/solution.py
+[Two Sum Solution]: https://github.com/robinali34/leetcode_java/blob/master/src/main/easy/twoSum/Solution.java
 
 [Easy]: https://github.com/robinali34/leetcode_java/src/main/easy
 [Medium]: https://github.com/robinali34/leetcode_java/src/main/medium
